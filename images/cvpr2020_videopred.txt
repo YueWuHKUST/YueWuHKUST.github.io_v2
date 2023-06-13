@@ -1,0 +1,7 @@
+@InProceedings{Yue_2020_CVPR,
+author = {Yue Wu and Rongrong Gao and Jaesik Park and Qifeng Chen},
+title = {Future Video Synthesis with Object Motion Prediction},
+booktitle = {The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+month = {June},
+year = {2020}
+}

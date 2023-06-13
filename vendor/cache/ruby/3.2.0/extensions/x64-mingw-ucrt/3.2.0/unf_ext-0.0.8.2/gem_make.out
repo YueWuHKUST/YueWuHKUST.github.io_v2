@@ -1,0 +1,20 @@
+current directory: D:/files/YueWuHKUST.github.io_v2-main/YueWuHKUST.github.io_v2-main/vendor/cache/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+D:/programs/Ruby32-x64/bin/ruby.exe extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: D:/files/YueWuHKUST.github.io_v2-main/YueWuHKUST.github.io_v2-main/vendor/cache/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230607-27116-yl1d3c sitelibdir\=./.gem.20230607-27116-yl1d3c clean
+
+current directory: D:/files/YueWuHKUST.github.io_v2-main/YueWuHKUST.github.io_v2-main/vendor/cache/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230607-27116-yl1d3c sitelibdir\=./.gem.20230607-27116-yl1d3c
+generating unf_ext-x64-mingw-ucrt.def
+compiling unf.cc
+linking shared-object unf_ext.so
+
+current directory: D:/files/YueWuHKUST.github.io_v2-main/YueWuHKUST.github.io_v2-main/vendor/cache/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230607-27116-yl1d3c sitelibdir\=./.gem.20230607-27116-yl1d3c install
+/usr/bin/install -c -m 0755 unf_ext.so ./.gem.20230607-27116-yl1d3c
+
+current directory: D:/files/YueWuHKUST.github.io_v2-main/YueWuHKUST.github.io_v2-main/vendor/cache/ruby/3.2.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make DESTDIR\= sitearchdir\=./.gem.20230607-27116-yl1d3c sitelibdir\=./.gem.20230607-27116-yl1d3c clean

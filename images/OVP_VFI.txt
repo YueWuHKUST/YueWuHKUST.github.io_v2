@@ -1,0 +1,6 @@
+@inproceedings{yue2022OMP_VFI,
+          title={Optimizing Video Prediction via Video Frame Interpolation},
+          author={Wu, Yue and Wen, Qiang and Chen, Qifeng},
+          booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+          year={2022}
+ }
